@@ -7,12 +7,26 @@
       "RelativeMoniker": "D:0:0:{5A3EB02B-3A89-452A-B30A-1CA77B1AEFE1}|ProiectPIU\\ProiectPIU.csproj|solutionrelative:proiectpiu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5A3EB02B-3A89-452A-B30A-1CA77B1AEFE1}|ProiectPIU\\ProiectPIU.csproj|C:\\Users\\Vladut\\Desktop\\PIU\\ProiectPIU\\proiectpiu\\jucator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A3EB02B-3A89-452A-B30A-1CA77B1AEFE1}|ProiectPIU\\ProiectPIU.csproj|solutionrelative:proiectpiu\\jucator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97135202-73B7-4FF8-AEC6-6D873E0889A7}|StocareDateNiveluri\\StocareDateNiveluri.csproj|c:\\users\\vladut\\desktop\\piu\\proiectpiu\\stocaredateniveluri\\administrarefisier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97135202-73B7-4FF8-AEC6-6D873E0889A7}|StocareDateNiveluri\\StocareDateNiveluri.csproj|solutionrelative:stocaredateniveluri\\administrarefisier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97135202-73B7-4FF8-AEC6-6D873E0889A7}|StocareDateNiveluri\\StocareDateNiveluri.csproj|c:\\users\\vladut\\desktop\\piu\\proiectpiu\\stocaredateniveluri\\administrarejucatori_memorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97135202-73B7-4FF8-AEC6-6D873E0889A7}|StocareDateNiveluri\\StocareDateNiveluri.csproj|solutionrelative:stocaredateniveluri\\administrarejucatori_memorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5A3EB02B-3A89-452A-B30A-1CA77B1AEFE1}|ProiectPIU\\ProiectPIU.csproj|C:\\Users\\Vladut\\Desktop\\PIU\\ProiectPIU\\proiectpiu\\echipa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A3EB02B-3A89-452A-B30A-1CA77B1AEFE1}|ProiectPIU\\ProiectPIU.csproj|solutionrelative:proiectpiu\\echipa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A3EB02B-3A89-452A-B30A-1CA77B1AEFE1}|ProiectPIU\\ProiectPIU.csproj|C:\\Users\\Vladut\\Desktop\\PIU\\ProiectPIU\\proiectpiu\\jucator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A3EB02B-3A89-452A-B30A-1CA77B1AEFE1}|ProiectPIU\\ProiectPIU.csproj|solutionrelative:proiectpiu\\jucator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|StocareDateNiveluri||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97135202-73B7-4FF8-AEC6-6D873E0889A7}|StocareDateNiveluri\\StocareDateNiveluri.csproj|c:\\users\\vladut\\desktop\\piu\\proiectpiu\\stocaredateniveluri\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +36,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Jucator.cs",
+              "DocumentMoniker": "C:\\Users\\Vladut\\Desktop\\PIU\\ProiectPIU\\ProiectPIU\\Jucator.cs",
+              "RelativeDocumentMoniker": "ProiectPIU\\Jucator.cs",
+              "ToolTip": "C:\\Users\\Vladut\\Desktop\\PIU\\ProiectPIU\\ProiectPIU\\Jucator.cs",
+              "RelativeToolTip": "ProiectPIU\\Jucator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T10:23:11.43Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -32,7 +59,7 @@
               "RelativeDocumentMoniker": "ProiectPIU\\Program.cs",
               "ToolTip": "C:\\Users\\Vladut\\Desktop\\PIU\\ProiectPIU\\ProiectPIU\\Program.cs",
               "RelativeToolTip": "ProiectPIU\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwEkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-02T10:18:49.275Z",
               "EditorCaption": ""
@@ -40,18 +67,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Jucator.cs",
-              "DocumentMoniker": "C:\\Users\\Vladut\\Desktop\\PIU\\ProiectPIU\\ProiectPIU\\Jucator.cs",
-              "RelativeDocumentMoniker": "ProiectPIU\\Jucator.cs",
-              "ToolTip": "C:\\Users\\Vladut\\Desktop\\PIU\\ProiectPIU\\ProiectPIU\\Jucator.cs",
-              "RelativeToolTip": "ProiectPIU\\Jucator.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAsAAAArAAAAAAAAAA==",
+              "Title": "AdministrareFisier.cs",
+              "DocumentMoniker": "C:\\Users\\Vladut\\Desktop\\PIU\\ProiectPIU\\StocareDateNiveluri\\AdministrareFisier.cs",
+              "RelativeDocumentMoniker": "StocareDateNiveluri\\AdministrareFisier.cs",
+              "ToolTip": "C:\\Users\\Vladut\\Desktop\\PIU\\ProiectPIU\\StocareDateNiveluri\\AdministrareFisier.cs",
+              "RelativeToolTip": "StocareDateNiveluri\\AdministrareFisier.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwBMAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T10:23:11.43Z"
+              "WhenOpened": "2025-03-18T18:24:53.559Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "AdministrareJucatori_Memorie.cs",
+              "DocumentMoniker": "C:\\Users\\Vladut\\Desktop\\PIU\\ProiectPIU\\StocareDateNiveluri\\AdministrareJucatori_Memorie.cs",
+              "RelativeDocumentMoniker": "StocareDateNiveluri\\AdministrareJucatori_Memorie.cs",
+              "ToolTip": "C:\\Users\\Vladut\\Desktop\\PIU\\ProiectPIU\\StocareDateNiveluri\\AdministrareJucatori_Memorie.cs",
+              "RelativeToolTip": "StocareDateNiveluri\\AdministrareJucatori_Memorie.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAcwCEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T17:58:46.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Echipa.cs",
               "DocumentMoniker": "C:\\Users\\Vladut\\Desktop\\PIU\\ProiectPIU\\ProiectPIU\\Echipa.cs",
               "RelativeDocumentMoniker": "ProiectPIU\\Echipa.cs",
@@ -59,7 +100,20 @@
               "RelativeToolTip": "ProiectPIU\\Echipa.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T17:42:21.328Z"
+              "WhenOpened": "2025-03-03T17:42:21.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StocareDateNiveluri",
+              "DocumentMoniker": "C:\\Users\\Vladut\\Desktop\\PIU\\ProiectPIU\\StocareDateNiveluri\\StocareDateNiveluri.csproj",
+              "RelativeDocumentMoniker": "StocareDateNiveluri\\StocareDateNiveluri.csproj",
+              "ToolTip": "C:\\Users\\Vladut\\Desktop\\PIU\\ProiectPIU\\StocareDateNiveluri\\StocareDateNiveluri.csproj",
+              "RelativeToolTip": "StocareDateNiveluri\\StocareDateNiveluri.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-18T18:23:26.749Z",
+              "EditorCaption": ""
             }
           ]
         }
