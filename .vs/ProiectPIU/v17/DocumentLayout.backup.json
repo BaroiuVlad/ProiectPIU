@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vladut\\Desktop\\PIU\\ProiectPIU\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A3EB02B-3A89-452A-B30A-1CA77B1AEFE1}|ProiectPIU\\ProiectPIU.csproj|c:\\users\\vladut\\desktop\\piu\\proiectpiu\\proiectpiu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A3EB02B-3A89-452A-B30A-1CA77B1AEFE1}|ProiectPIU\\ProiectPIU.csproj|solutionrelative:proiectpiu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A3EB02B-3A89-452A-B30A-1CA77B1AEFE1}|ProiectPIU\\ProiectPIU.csproj|C:\\Users\\Vladut\\Desktop\\PIU\\ProiectPIU\\proiectpiu\\echipa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A3EB02B-3A89-452A-B30A-1CA77B1AEFE1}|ProiectPIU\\ProiectPIU.csproj|solutionrelative:proiectpiu\\echipa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A3EB02B-3A89-452A-B30A-1CA77B1AEFE1}|ProiectPIU\\ProiectPIU.csproj|C:\\Users\\Vladut\\Desktop\\PIU\\ProiectPIU\\proiectpiu\\jucator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A3EB02B-3A89-452A-B30A-1CA77B1AEFE1}|ProiectPIU\\ProiectPIU.csproj|solutionrelative:proiectpiu\\jucator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vladut\\Desktop\\PIU\\ProiectPIU\\ProiectPIU\\Program.cs",
+              "RelativeDocumentMoniker": "ProiectPIU\\Program.cs",
+              "ToolTip": "C:\\Users\\Vladut\\Desktop\\PIU\\ProiectPIU\\ProiectPIU\\Program.cs",
+              "RelativeToolTip": "ProiectPIU\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T10:18:49.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Jucator.cs",
+              "DocumentMoniker": "C:\\Users\\Vladut\\Desktop\\PIU\\ProiectPIU\\ProiectPIU\\Jucator.cs",
+              "RelativeDocumentMoniker": "ProiectPIU\\Jucator.cs",
+              "ToolTip": "C:\\Users\\Vladut\\Desktop\\PIU\\ProiectPIU\\ProiectPIU\\Jucator.cs",
+              "RelativeToolTip": "ProiectPIU\\Jucator.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T10:23:11.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Echipa.cs",
+              "DocumentMoniker": "C:\\Users\\Vladut\\Desktop\\PIU\\ProiectPIU\\ProiectPIU\\Echipa.cs",
+              "RelativeDocumentMoniker": "ProiectPIU\\Echipa.cs",
+              "ToolTip": "C:\\Users\\Vladut\\Desktop\\PIU\\ProiectPIU\\ProiectPIU\\Echipa.cs",
+              "RelativeToolTip": "ProiectPIU\\Echipa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T17:42:21.328Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
