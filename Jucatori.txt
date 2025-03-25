@@ -1,5 +1,1 @@
-1;baroiu;vladut;1.80;Fundas
-2;viorel;viorel;1.90;Portar
-3;vd;fb;3.00;Fundas
-4;;;0.00;0
-5;ion;vasile;1.90;Rezerva
+
