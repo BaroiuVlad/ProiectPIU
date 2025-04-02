@@ -1,30 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Vladut\\Desktop\\PIU\\AplicatiePIU\\",
+  "WorkspaceRootPath": "C:\\Users\\Vladut\\Desktop\\PIU\\ProiectPIU\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9CF21450-0D63-4164-90B3-A63A61DDF09D}|AplicatiePIU\\AplicatiePIU.csproj|C:\\Users\\Vladut\\Desktop\\PIU\\AplicatiePIU\\aplicatiepiu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CF21450-0D63-4164-90B3-A63A61DDF09D}|AplicatiePIU\\AplicatiePIU.csproj|solutionrelative:aplicatiepiu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4B46BC0-A97A-4855-B803-CA5003B65441}|NivelStocareDate\\NivelStocareDate.csproj|C:\\Users\\Vladut\\Desktop\\PIU\\AplicatiePIU\\nivelstocaredate\\administrarejucatori_fisiertext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A4B46BC0-A97A-4855-B803-CA5003B65441}|NivelStocareDate\\NivelStocareDate.csproj|C:\\Users\\Vladut\\Desktop\\PIU\\ProiectPIU\\nivelstocaredate\\administrarejucatori_fisiertext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4B46BC0-A97A-4855-B803-CA5003B65441}|NivelStocareDate\\NivelStocareDate.csproj|solutionrelative:nivelstocaredate\\administrarejucatori_fisiertext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4B46BC0-A97A-4855-B803-CA5003B65441}|NivelStocareDate\\NivelStocareDate.csproj|C:\\Users\\Vladut\\Desktop\\PIU\\AplicatiePIU\\nivelstocaredate\\asministrarejucatori_memorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6772F2A9-F0DD-4E5C-85D3-E9DFF056034B}|InterfataUtilizator\\InterfataUtilizator.csproj|c:\\users\\vladut\\desktop\\piu\\proiectpiu\\interfatautilizator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6772F2A9-F0DD-4E5C-85D3-E9DFF056034B}|InterfataUtilizator\\InterfataUtilizator.csproj|solutionrelative:interfatautilizator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6772F2A9-F0DD-4E5C-85D3-E9DFF056034B}|InterfataUtilizator\\InterfataUtilizator.csproj|c:\\users\\vladut\\desktop\\piu\\proiectpiu\\interfatautilizator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6772F2A9-F0DD-4E5C-85D3-E9DFF056034B}|InterfataUtilizator\\InterfataUtilizator.csproj|solutionrelative:interfatautilizator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B46BC0-A97A-4855-B803-CA5003B65441}|NivelStocareDate\\NivelStocareDate.csproj|C:\\Users\\Vladut\\Desktop\\PIU\\ProiectPIU\\nivelstocaredate\\asministrarejucatori_memorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4B46BC0-A97A-4855-B803-CA5003B65441}|NivelStocareDate\\NivelStocareDate.csproj|solutionrelative:nivelstocaredate\\asministrarejucatori_memorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C4BCED3-659D-42EF-A248-A1DF2EC5C230}|LibrarieModele\\LibrarieModele.csproj|C:\\Users\\Vladut\\Desktop\\PIU\\AplicatiePIU\\librariemodele\\enumerari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C4BCED3-659D-42EF-A248-A1DF2EC5C230}|LibrarieModele\\LibrarieModele.csproj|solutionrelative:librariemodele\\enumerari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C4BCED3-659D-42EF-A248-A1DF2EC5C230}|LibrarieModele\\LibrarieModele.csproj|c:\\users\\vladut\\desktop\\piu\\aplicatiepiu\\librariemodele\\jucator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9C4BCED3-659D-42EF-A248-A1DF2EC5C230}|LibrarieModele\\LibrarieModele.csproj|C:\\Users\\Vladut\\Desktop\\PIU\\ProiectPIU\\librariemodele\\jucator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C4BCED3-659D-42EF-A248-A1DF2EC5C230}|LibrarieModele\\LibrarieModele.csproj|solutionrelative:librariemodele\\jucator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CF21450-0D63-4164-90B3-A63A61DDF09D}|AplicatiePIU\\AplicatiePIU.csproj|C:\\Users\\Vladut\\Desktop\\PIU\\AplicatiePIU\\aplicatiepiu\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{6772F2A9-F0DD-4E5C-85D3-E9DFF056034B}|InterfataUtilizator\\InterfataUtilizator.csproj|c:\\users\\vladut\\desktop\\piu\\proiectpiu\\interfatautilizator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6772F2A9-F0DD-4E5C-85D3-E9DFF056034B}|InterfataUtilizator\\InterfataUtilizator.csproj|solutionrelative:interfatautilizator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF21450-0D63-4164-90B3-A63A61DDF09D}|AplicatiePIU\\AplicatiePIU.csproj|c:\\users\\vladut\\desktop\\piu\\proiectpiu\\aplicatiepiu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CF21450-0D63-4164-90B3-A63A61DDF09D}|AplicatiePIU\\AplicatiePIU.csproj|solutionrelative:aplicatiepiu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6772F2A9-F0DD-4E5C-85D3-E9DFF056034B}|InterfataUtilizator\\InterfataUtilizator.csproj|c:\\users\\vladut\\desktop\\piu\\proiectpiu\\interfatautilizator\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6772F2A9-F0DD-4E5C-85D3-E9DFF056034B}|InterfataUtilizator\\InterfataUtilizator.csproj|solutionrelative:interfatautilizator\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6772F2A9-F0DD-4E5C-85D3-E9DFF056034B}|InterfataUtilizator\\InterfataUtilizator.csproj|c:\\users\\vladut\\desktop\\piu\\proiectpiu\\interfatautilizator\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6772F2A9-F0DD-4E5C-85D3-E9DFF056034B}|InterfataUtilizator\\InterfataUtilizator.csproj|solutionrelative:interfatautilizator\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF21450-0D63-4164-90B3-A63A61DDF09D}|AplicatiePIU\\AplicatiePIU.csproj|C:\\Users\\Vladut\\Desktop\\PIU\\ProiectPIU\\aplicatiepiu\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{9CF21450-0D63-4164-90B3-A63A61DDF09D}|AplicatiePIU\\AplicatiePIU.csproj|solutionrelative:aplicatiepiu\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C4BCED3-659D-42EF-A248-A1DF2EC5C230}|LibrarieModele\\LibrarieModele.csproj|C:\\Users\\Vladut\\Desktop\\PIU\\ProiectPIU\\librariemodele\\enumerari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C4BCED3-659D-42EF-A248-A1DF2EC5C230}|LibrarieModele\\LibrarieModele.csproj|solutionrelative:librariemodele\\enumerari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,84 +54,148 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Vladut\\Desktop\\PIU\\ProiectPIU\\InterfataUtilizator\\Form1.cs",
+              "RelativeDocumentMoniker": "InterfataUtilizator\\Form1.cs",
+              "ToolTip": "C:\\Users\\Vladut\\Desktop\\PIU\\ProiectPIU\\InterfataUtilizator\\Form1.cs [Design]",
+              "RelativeToolTip": "InterfataUtilizator\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T15:45:14.802Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Vladut\\Desktop\\PIU\\ProiectPIU\\InterfataUtilizator\\Form1.cs",
+              "RelativeDocumentMoniker": "InterfataUtilizator\\Form1.cs",
+              "ToolTip": "C:\\Users\\Vladut\\Desktop\\PIU\\ProiectPIU\\InterfataUtilizator\\Form1.cs",
+              "RelativeToolTip": "InterfataUtilizator\\Form1.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T15:56:54.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "AsministrareJucatori_Memorie.cs",
-              "DocumentMoniker": "C:\\Users\\Vladut\\Desktop\\PIU\\AplicatiePIU\\NivelStocareDate\\AsministrareJucatori_Memorie.cs",
+              "DocumentMoniker": "C:\\Users\\Vladut\\Desktop\\PIU\\ProiectPIU\\NivelStocareDate\\AsministrareJucatori_Memorie.cs",
               "RelativeDocumentMoniker": "NivelStocareDate\\AsministrareJucatori_Memorie.cs",
-              "ToolTip": "C:\\Users\\Vladut\\Desktop\\PIU\\AplicatiePIU\\NivelStocareDate\\AsministrareJucatori_Memorie.cs",
+              "ToolTip": "C:\\Users\\Vladut\\Desktop\\PIU\\ProiectPIU\\NivelStocareDate\\AsministrareJucatori_Memorie.cs",
               "RelativeToolTip": "NivelStocareDate\\AsministrareJucatori_Memorie.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAtwDMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-25T14:44:05.903Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "AdministrareJucatori_FisierText.cs",
-              "DocumentMoniker": "C:\\Users\\Vladut\\Desktop\\PIU\\AplicatiePIU\\NivelStocareDate\\AdministrareJucatori_FisierText.cs",
+              "DocumentMoniker": "C:\\Users\\Vladut\\Desktop\\PIU\\ProiectPIU\\NivelStocareDate\\AdministrareJucatori_FisierText.cs",
               "RelativeDocumentMoniker": "NivelStocareDate\\AdministrareJucatori_FisierText.cs",
-              "ToolTip": "C:\\Users\\Vladut\\Desktop\\PIU\\AplicatiePIU\\NivelStocareDate\\AdministrareJucatori_FisierText.cs",
+              "ToolTip": "C:\\Users\\Vladut\\Desktop\\PIU\\ProiectPIU\\NivelStocareDate\\AdministrareJucatori_FisierText.cs",
               "RelativeToolTip": "NivelStocareDate\\AdministrareJucatori_FisierText.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-25T14:55:24.386Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "Jucator.cs",
+              "DocumentMoniker": "C:\\Users\\Vladut\\Desktop\\PIU\\ProiectPIU\\LibrarieModele\\Jucator.cs",
+              "RelativeDocumentMoniker": "LibrarieModele\\Jucator.cs",
+              "ToolTip": "C:\\Users\\Vladut\\Desktop\\PIU\\ProiectPIU\\LibrarieModele\\Jucator.cs",
+              "RelativeToolTip": "LibrarieModele\\Jucator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T15:10:16.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Vladut\\Desktop\\PIU\\AplicatiePIU\\AplicatiePIU\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vladut\\Desktop\\PIU\\ProiectPIU\\InterfataUtilizator\\Program.cs",
+              "RelativeDocumentMoniker": "InterfataUtilizator\\Program.cs",
+              "ToolTip": "C:\\Users\\Vladut\\Desktop\\PIU\\ProiectPIU\\InterfataUtilizator\\Program.cs",
+              "RelativeToolTip": "InterfataUtilizator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T15:47:27.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vladut\\Desktop\\PIU\\ProiectPIU\\AplicatiePIU\\Program.cs",
               "RelativeDocumentMoniker": "AplicatiePIU\\Program.cs",
-              "ToolTip": "C:\\Users\\Vladut\\Desktop\\PIU\\AplicatiePIU\\AplicatiePIU\\Program.cs",
+              "ToolTip": "C:\\Users\\Vladut\\Desktop\\PIU\\ProiectPIU\\AplicatiePIU\\Program.cs",
               "RelativeToolTip": "AplicatiePIU\\Program.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAApwDMAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAB0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-25T14:25:30.621Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\Vladut\\Desktop\\PIU\\AplicatiePIU\\AplicatiePIU\\App.config",
+              "DocumentMoniker": "C:\\Users\\Vladut\\Desktop\\PIU\\ProiectPIU\\InterfataUtilizator\\App.config",
+              "RelativeDocumentMoniker": "InterfataUtilizator\\App.config",
+              "ToolTip": "C:\\Users\\Vladut\\Desktop\\PIU\\ProiectPIU\\InterfataUtilizator\\App.config",
+              "RelativeToolTip": "InterfataUtilizator\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-01T15:45:59.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Vladut\\Desktop\\PIU\\ProiectPIU\\InterfataUtilizator\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "InterfataUtilizator\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Vladut\\Desktop\\PIU\\ProiectPIU\\InterfataUtilizator\\Form1.Designer.cs",
+              "RelativeToolTip": "InterfataUtilizator\\Form1.Designer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAvwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T15:46:27.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Vladut\\Desktop\\PIU\\ProiectPIU\\AplicatiePIU\\App.config",
               "RelativeDocumentMoniker": "AplicatiePIU\\App.config",
-              "ToolTip": "C:\\Users\\Vladut\\Desktop\\PIU\\AplicatiePIU\\AplicatiePIU\\App.config",
+              "ToolTip": "C:\\Users\\Vladut\\Desktop\\PIU\\ProiectPIU\\AplicatiePIU\\App.config",
               "RelativeToolTip": "AplicatiePIU\\App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-03-25T19:30:52.035Z"
+              "WhenOpened": "2025-03-25T19:30:52.035Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "Enumerari.cs",
-              "DocumentMoniker": "C:\\Users\\Vladut\\Desktop\\PIU\\AplicatiePIU\\LibrarieModele\\Enumerari.cs",
+              "DocumentMoniker": "C:\\Users\\Vladut\\Desktop\\PIU\\ProiectPIU\\LibrarieModele\\Enumerari.cs",
               "RelativeDocumentMoniker": "LibrarieModele\\Enumerari.cs",
-              "ToolTip": "C:\\Users\\Vladut\\Desktop\\PIU\\AplicatiePIU\\LibrarieModele\\Enumerari.cs",
+              "ToolTip": "C:\\Users\\Vladut\\Desktop\\PIU\\ProiectPIU\\LibrarieModele\\Enumerari.cs",
               "RelativeToolTip": "LibrarieModele\\Enumerari.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T16:19:38.585Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Jucator.cs",
-              "DocumentMoniker": "C:\\Users\\Vladut\\Desktop\\PIU\\AplicatiePIU\\LibrarieModele\\Jucator.cs",
-              "RelativeDocumentMoniker": "LibrarieModele\\Jucator.cs",
-              "ToolTip": "C:\\Users\\Vladut\\Desktop\\PIU\\AplicatiePIU\\LibrarieModele\\Jucator.cs",
-              "RelativeToolTip": "LibrarieModele\\Jucator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T15:10:16.782Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T16:19:38.585Z"
             }
           ]
         }

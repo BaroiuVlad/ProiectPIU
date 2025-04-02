@@ -16,3 +16,12 @@ D:\AplicatiePIU\NivelStocareDate\obj\Debug\NivelStocareDate.csproj.CoreCompileIn
 D:\AplicatiePIU\NivelStocareDate\obj\Debug\NivelSto.ECC26E05.Up2Date
 D:\AplicatiePIU\NivelStocareDate\obj\Debug\NivelStocareDate.dll
 D:\AplicatiePIU\NivelStocareDate\obj\Debug\NivelStocareDate.pdb
+C:\Users\Vladut\Desktop\PIU\ProiectPIU\NivelStocareDate\bin\Debug\NivelStocareDate.dll
+C:\Users\Vladut\Desktop\PIU\ProiectPIU\NivelStocareDate\bin\Debug\NivelStocareDate.pdb
+C:\Users\Vladut\Desktop\PIU\ProiectPIU\NivelStocareDate\bin\Debug\LibrarieModele.dll
+C:\Users\Vladut\Desktop\PIU\ProiectPIU\NivelStocareDate\bin\Debug\LibrarieModele.pdb
+C:\Users\Vladut\Desktop\PIU\ProiectPIU\NivelStocareDate\obj\Debug\NivelStocareDate.csproj.AssemblyReference.cache
+C:\Users\Vladut\Desktop\PIU\ProiectPIU\NivelStocareDate\obj\Debug\NivelStocareDate.csproj.CoreCompileInputs.cache
+C:\Users\Vladut\Desktop\PIU\ProiectPIU\NivelStocareDate\obj\Debug\NivelSto.ECC26E05.Up2Date
+C:\Users\Vladut\Desktop\PIU\ProiectPIU\NivelStocareDate\obj\Debug\NivelStocareDate.dll
+C:\Users\Vladut\Desktop\PIU\ProiectPIU\NivelStocareDate\obj\Debug\NivelStocareDate.pdb

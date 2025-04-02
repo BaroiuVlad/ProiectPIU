@@ -144,7 +144,7 @@ namespace ProiectPIU
                 Console.WriteLine(infoJucator);
             }
         }
-        //test
+        
 
 
     }

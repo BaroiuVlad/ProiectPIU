@@ -1,1 +1,2 @@
-
+1;viorel;ion;1.80;Rezerva
+2;viorel;ion;6.00;Rezerva
